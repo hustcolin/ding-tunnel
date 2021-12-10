@@ -95,7 +95,7 @@ except NameError as e:
 ## 第三部分	
 #@title **SSH**
 
-! pip install colab_ssh --upgrade &> /dev/null
+#!pip install colab_ssh --upgrade &> /dev/null
 
 Ngrok = True #@param {type:'boolean'}
 Agro = False #@param {type:'boolean'}
